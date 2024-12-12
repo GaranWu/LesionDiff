@@ -9,7 +9,7 @@ You can create a new Conda environment by running the following command:
 In the environment, we still use other networks. If it does not work, please configure the environment of other networks first.
 ## PreTrained Model
 The pre-trained PlantDid model is linked below, you can download it.
-<li>PlantDid:https://drive.google.com/file/d/1VMu7AMv6SYp9HXWpjXmERAsmhh8aahFY/view?usp=drive_link
+<li>LesionDiff:https://drive.google.com/file/d/1VMu7AMv6SYp9HXWpjXmERAsmhh8aahFY/view?usp=drive_link
 <li>And we use GroundingDINO, the download is:
 https://drive.google.com/drive/folders/1z7Xxm-ZpTC0k4qyaCjyEJqh_q1rou1Ba?usp=drive_link
 
